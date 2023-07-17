@@ -6,7 +6,7 @@ public class OrdenarVetorEImprimirPrimos {
 
         int[] vetor = {1, 3, 2, 8, 29, 30, 7, 83, 63, 77, 67, 37, 41, 90, 97, 4, 23};
 
-        Arrays.sort(vetor);
+        Arrays.sort(vetor); //Organizando o vetor
 
         System.out.println("\nVetor organizado: " + Arrays.toString(vetor) + "\n");
 
