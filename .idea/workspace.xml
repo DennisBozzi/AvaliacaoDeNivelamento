@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e00fb85d-0e6e-4f64-b220-8943adc02ef3" name="Changes" comment="Retorna Verdadeiro caso a string seja um palíndromo, caso não seja, retorna Falso">
-      <change afterPath="$PROJECT_DIR$/src/OrdenarVetorEImprimirPrimos.java" afterDir="false" />
+    <list default="true" id="e00fb85d-0e6e-4f64-b220-8943adc02ef3" name="Changes" comment="Retorna o vetor organizado, mostrando os números primos e seus índices dentro do vetor.">
+      <change afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,14 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OrdenarVetorEImprimirPrimos">
+  <component name="RunManager" selected="Application.FizzBuzz">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
+      <module name="Avaliacao de Nivelamento" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Avaliacao de Nivelamento" />
@@ -64,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.OrdenarVetorEImprimirPrimos" />
         <item itemvalue="Application.ValidacaoDePalindromo" />
         <item itemvalue="Application.Main" />
@@ -103,12 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689630789596</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Retorna o vetor organizado, mostrando os números primos e seus índices dentro do vetor.">
+      <option name="closed" value="true" />
+      <created>1689630954545</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689630954545</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando o repositório." />
     <MESSAGE value="Retorna Verdadeiro caso a string seja um palíndromo, caso não seja, retorna Falso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Retorna Verdadeiro caso a string seja um palíndromo, caso não seja, retorna Falso" />
+    <MESSAGE value="Retorna o vetor organizado, mostrando os números primos e seus índices dentro do vetor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Retorna o vetor organizado, mostrando os números primos e seus índices dentro do vetor." />
   </component>
 </project>
