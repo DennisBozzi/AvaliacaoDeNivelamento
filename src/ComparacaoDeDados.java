@@ -71,7 +71,7 @@ public class ComparacaoDeDados {
             System.out.println("A data inicial padrão foi definida como: " + diaInicio + "/" + mesInicio + "/" + anoInicio);
         }
 
-        System.out.print("\nGostaria de pesquisar com uma data final? (1 - Sim   2 - Não)\nEscolha: ");
+        System.out.print("\nGostaria de pesquisar com uma data final? 1 - (1 - Sim   2 - Não)\nEscolha: ");
         confirma = 0;
         confirma = sc.nextInt();
 
