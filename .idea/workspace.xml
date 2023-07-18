@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e00fb85d-0e6e-4f64-b220-8943adc02ef3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Fatorial.java" afterDir="false" />
+    <list default="true" id="e00fb85d-0e6e-4f64-b220-8943adc02ef3" name="Changes" comment="Retorna o vetor organizado, mostrando os números primos e seus índices dentro do vetor.">
+      <change afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OrdenarVetorEImprimirPrimos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrdenarVetorEImprimirPrimos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +37,10 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Fatorial">
-    <configuration name="Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fatorial" />
-      <module name="Avaliacao de Nivelamento" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FizzBuzz">
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
       <module name="Avaliacao de Nivelamento" />
@@ -80,7 +71,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fatorial" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.OrdenarVetorEImprimirPrimos" />
         <item itemvalue="Application.ValidacaoDePalindromo" />
@@ -129,22 +119,13 @@
       <option name="project" value="LOCAL" />
       <updated>1689630954545</updated>
     </task>
-    <task id="LOCAL-00005" summary="FizzBuzz&#10;&#10; - Printa números de 0 a 100&#10; - No lugar dos múltiplos de 3, printa Fizz&#10; - No lugar dos múltiplos de 5, printa Buzz&#10; - Quando são múltiplos de 3 e de 5, printa FizzBuzz">
-      <option name="closed" value="true" />
-      <created>1689631578500</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1689631578500</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando o repositório." />
     <MESSAGE value="Retorna Verdadeiro caso a string seja um palíndromo, caso não seja, retorna Falso" />
     <MESSAGE value="Retorna o vetor organizado, mostrando os números primos e seus índices dentro do vetor." />
-    <MESSAGE value="FizzBuzz&#10;&#10; - Printa números de 0 a 100&#10; - No lugar dos múltiplos de 3, printa Fizz&#10; - No lugar dos múltiplos de 5, printa Buzz&#10; - Quando são múltiplos de 3 e de 5, printa FizzBuzz" />
-    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz&#10;&#10; - Printa números de 0 a 100&#10; - No lugar dos múltiplos de 3, printa Fizz&#10; - No lugar dos múltiplos de 5, printa Buzz&#10; - Quando são múltiplos de 3 e de 5, printa FizzBuzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Retorna o vetor organizado, mostrando os números primos e seus índices dentro do vetor." />
   </component>
 </project>
